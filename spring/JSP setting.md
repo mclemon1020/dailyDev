@@ -9,6 +9,8 @@ class: 소문자
 
 *SpringBoot 폴더 구조
 
+![JSP폴더구조](image/jsp폴더구조.jpg)
+
 0. Spring Boot의 tempates 위치
   1-1 Spring Boot의 기본 template의 위치는 src/main/resources/templates  이다.
   1-2 JSP를 제외한 view template engine들은 여기에서 template 파일을 가져온다.
