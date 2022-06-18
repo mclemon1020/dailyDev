@@ -1,7 +1,7 @@
 Package :  대문자
 class: 소문자
 
-*Spring initializer를 통해 프로젝트를 생성합니다.(https://start.spring.io/)
+## Spring initializer를 통해 프로젝트를 생성합니다.(https://start.spring.io/)
   -SpringBoot 버전은 2.6.8을 사용
   -패키지명:  com/회사명/프로젝트명을 사용
   -자바 11
